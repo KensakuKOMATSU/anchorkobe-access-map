@@ -34,7 +34,7 @@ function App() {
           神戸空港もしくはTPAC会場より、 ポートライナーで三宮駅へ。改札を出てください。
           <Row gutter={[16, 16]}>
             {route2.map(({ filename, description }, idx) => (
-              <Col span={8} key={idx}>
+              <Col xs={24} sm={12} md={8} key={idx}>
                 <Card hoverable>
                   <img src={`/assets/photos/${filename}`} alt={filename} width={320} />
                   <Meta title={idx + 1} description={description} />
