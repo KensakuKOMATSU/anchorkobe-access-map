@@ -16,8 +16,8 @@ export const routeTitle = {
 
 export const routeDescription = {
   'route1': {
-    'en': 'From Kobe Airport or TPAC venue, take the Port Liner to Sannomiya Station. Exit from the ticket gate.',
-    'jp': '神戸空港もしくはTPAC会場より、 ポートライナーで三宮駅へ。改札を出てください。',
+    'en': 'From Kobe Airport or TPAC venue or Portpia hotel, take the Port Liner to Sannomiya Station. Exit from the ticket gate.',
+    'jp': '神戸空港もしくはTPAC会場もしくはポートピアホテルより、 ポートライナーで三宮駅へ。改札を出てください。',
   },
   'route2': {
     'en': 'From Shin-Kobe Station, take the subway to Sannomiya Station. Exit from the East Exit ticket gate.',
