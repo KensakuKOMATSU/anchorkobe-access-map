@@ -105,9 +105,9 @@ function App() {
         <div className='main'>
           <div className='lang-select'>
             <div>
-              <Button onClick={ () => changeLang('jp') } disabled={ _lang === 'jp' } type="default" ><span className="fi fi-jp" />日本語</Button>
+              <Button onClick={ () => changeLang('jp') } type={ _lang === 'jp' ? 'primary' : 'default' } ><span className="fi fi-jp" />日本語</Button>
               <span> | </span>
-              <Button onClick={ () => changeLang('en') } disabled={ _lang === 'en' } type="default"><span className='fi fi-gb' />English</Button>
+              <Button onClick={ () => changeLang('en') } type={ _lang === 'en' ? 'primary' : 'default' } ><span className='fi fi-gb' />English</Button>
             </div>
           </div>
           <header className="App-header">
