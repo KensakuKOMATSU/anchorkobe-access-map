@@ -17,5 +17,5 @@ $ npm run build
 ```
 
 ---
-@copy; Kensaku KOMATSU
+&copy; Kensaku KOMATSU
 
