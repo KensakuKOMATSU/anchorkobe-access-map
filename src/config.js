@@ -5,8 +5,8 @@ export const maintitle = {
 
 export const routeTitle = {
   'route1': {
-    'en': 'From Kobe Airport / TPAC Venue',
-    'jp': '神戸空港 / TPAC 会場より',
+    'en': 'From Kobe Airport / TPAC Venue / Portopia hotel',
+    'jp': '神戸空港 / TPAC 会場 / ポートピアホテルより',
   },
   'route2': {
     'en': 'From Shinkansen, Shin-Kobe Station',
